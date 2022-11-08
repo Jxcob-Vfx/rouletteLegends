@@ -1,4 +1,4 @@
-# import and acknowledge data libraries
+# import and acknowledge random, os, time, colorama data libraries
 import random
 import os as screen
 import time as delay
