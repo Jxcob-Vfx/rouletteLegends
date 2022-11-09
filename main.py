@@ -124,7 +124,7 @@ def roulette():
     print()
     rouletteInput = str(input("> "))
   
-    #roulette menu input analysis
+    # analyze end user roulette menu input
     
     if rouletteInput == str("1"):
       screen.system("clear")
